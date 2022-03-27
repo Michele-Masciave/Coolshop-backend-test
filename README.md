@@ -25,6 +25,6 @@ La consegna è attesa in formato repository git pubblica, su GitHub o similari.
 
 - The solution is NodeJs based and requires fs and readline modules.
 - A simple error checking on the argv is implemeted, but can be naturally improved, for instance checking the date formate ('moment' module is suggested) and implementing a *not* case-sensitive research by name/surname.
-- Run via: node src/search.js ./file.csv <index key> <value>
+- Run via: node src/search.js ./file.csv index value
 
 Thanks 4 your time! 🙂
